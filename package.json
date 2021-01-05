@@ -25,7 +25,7 @@
 		"silent": true
 	},
 	"dependencies": {
-		"axios": "^0.18.0",
+		"axios": "^0.21.1",
 		"babel-polyfill": "^6.23.0",
 		"comma-separated-values": "^3.6.4",
 		"date-fns": "^1.29.0",
